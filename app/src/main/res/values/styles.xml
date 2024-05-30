@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Add this line to make the status bar transparent -->
+        <item name="android:windowTranslucentStatus">true</item>
+
+        <!-- You can also add this line to make the navigation bar transparent -->
+        <!-- <item name="android:windowTranslucentNavigation">true</item> -->
+    </style>
+
+</resources>
